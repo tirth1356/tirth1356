@@ -9,7 +9,7 @@
 
 - 📕Learning **JavaScript**
 
-- 📘Want to learn **Python,C,C++,Backend Dev**
+- 📘Want to learn **Python,C,C++**
 
 - ✨From India 
 
