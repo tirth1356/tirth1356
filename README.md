@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tirth</h1>
-<h3 align="center">A passionate frontend developer & highschool student from india</h3>
+<h3 align="center">A passionate frontend developer & highschool student/h3>
 
 - 🔭 currently working on [Portfolio website](https://tirthpatel.ga)
 
