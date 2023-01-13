@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tirth</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=A+passionate+frontend+developer+%26+highschool+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&width=435&lines=frontend+developer+;high+school+student" alt="Typing SVG" /></a>
 
 - 🔭 currently working on [Portfolio website](https://tirthpatel.ga)
 
