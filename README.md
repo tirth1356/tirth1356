@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirth</h1>
+<p align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&center=true&width=435&lines=frontend+developer+;high+school+student" align="centre" alt="Typing SVG" /></a>
-
+</p>
 - 🔭 currently working on [Portfolio website](https://tirthpatel.ga)
 
 - 📗 Normal grade **11** student
