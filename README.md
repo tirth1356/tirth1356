@@ -23,8 +23,8 @@
 
 <h3 align="left">Mastery</h3>
 <p align="left">
-<a href="https://www.w3schools.com/html/"> <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="css3" width="34" height="34" target="_blank" rel="noreferrer"> </a>
-<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="43" height="43" target="_blank" rel="noreferrer">  </a> </p>
+<a href="https://www.w3schools.com/html/"> <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="css3" width="39" height="39" target="_blank" rel="noreferrer"> </a>
+<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="49" height="49" target="_blank" rel="noreferrer">  </a> </p>
 
 
 <a href="https://discord.com/users/831051078954909696"><img src="https://discord.c99.nl/widget/theme-3/831051078954909696.png"/></a> 
