@@ -5,7 +5,7 @@
 
 - 🔭 currently working on <a href="https://tirthpatel.ga">portfolio website</a>
 
-- 📗 Normal grade **11** student
+- 📗 Normal grade **12** student
 
 - 📙 Experienced in **Html,Css**
 
