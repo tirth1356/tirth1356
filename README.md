@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&center=true&width=435&lines=frontend+developer+;high+school+student;sarcastically+nerd" align="centre" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 currently working on [linktree](https://tirthpatel.ga)
+- 🔭 currently working on  <a href="https://tirthpate.ga" target="_blank"> Linktree </a>
 
 - 📗 Normal grade **12** student
 
