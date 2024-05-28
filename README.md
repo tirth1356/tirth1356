@@ -9,9 +9,9 @@
 
 - 📙 Experienced in **Html,Css**
 
-- 📕Learning **JavaScript**
+- 📕Learning **Js, DSA**
 
-- 📘Want to learn **Python,C,C++**
+- 📘Want to learn **tailwind css, py,c, c++, c#**
 
 - ✨From India 
 
