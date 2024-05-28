@@ -7,7 +7,7 @@
 
 - 📗 Normal grade **12** student
 
-- 📙 Experienced in **Html,Css**
+- 📙 Experienced in **Html,Css, Js basics**
 
 - 📕Learning **Js, DSA**
 
