@@ -9,7 +9,7 @@
 
 - 📙 Experienced in **Html,Css, Js basics**
 
-- 📕Learning **Js, DSA**
+- 📕Learning **Js**
 
 - 📘Want to learn **tailwind css, py,c, c++, c#**
 
