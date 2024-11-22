@@ -7,11 +7,11 @@
 
 - 📗 Normal grade **12** student
 
-- 📙 Experienced in **Html,Css, Js basics**
+- 📙 Experienced in **Html,Css, Js, Jquery**
 
-- 📕Learning **Js**
+- 📕Learning **C**
 
-- 📘Want to learn **tailwind css, py,c, c++, c#**
+- 📘Want to learn **tailwind css, py, c++, sqldb**
 
 - ✨From India 
 
