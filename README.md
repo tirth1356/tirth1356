@@ -5,13 +5,11 @@
 
 - 🔭 currently working on  <a href="https://tirthpatel.ga" target="_blank"> Linktree </a>
 
-- 📗 Normal grade **12** student
+- 📗 College FY
 
-- 📙 Experienced in **Html,Css, Js, Jquery**
+- 📙 Experienced in **Html,Css, Js, Jquery, C, C++**
 
-- 📕Learning **C**
-
-- 📘Want to learn **tailwind css, py, c++, sqldb**
+- 📕Learning **Py and AIML basic**
 
 - ✨From India 
 
