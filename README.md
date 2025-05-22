@@ -9,7 +9,7 @@
 
 - 📙 Experienced in **Html,Css, Js, Jquery, C, C++**
 
-- 📕Learning **Py and AIML basic**
+- 📕Learning **Py**
 
 - ✨From India 
 
