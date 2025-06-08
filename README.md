@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;Cybersecurity+Enthusiast;Practicing+DSA)](https://git.io/typing-svg)
 - 🔭 currently working on Cybersec & DSA<br>- 📗 Undergrad CSE<br>- 📙 Experienced in **Web Developing, C & C++**<br>- 📕Learning **DSA **<br>- ✨Passionate Coder 
 
 
