@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;Data+science+Enthusiast;Practicing+DSA)](https://git.io/typing-svg)
-- 🔭 currently working on  & DSA<br>- 📗 Undergrad CSE<br>- 📙 Experienced in **Full Stack Web Dev, C & C++**<br>- 📕Learning **DSA & Django **<br>- ✨Passionate Coder 
+- 🔭 currently working on DSA<br>- 📗 Undergrad CSE<br>- 📙 Experienced in **Full Stack Web Dev, C & C++**<br>- 📕Learning **DSA & Django **<br>- ✨Passionate Coder 
 
 
 ## 🌐 Socials:
