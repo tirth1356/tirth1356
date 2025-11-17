@@ -17,9 +17,9 @@
 <br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
 # 🎖️ Certificates
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" /> <img width="125" height="100" alt="image" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" /><img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/cd548cfd-06e0-4e1f-a524-2f62cfd27b3a" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />  <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/cd548cfd-06e0-4e1f-a524-2f62cfd27b3a" />
 <br>
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
 
 
 # 📊 GitHub Stats:
