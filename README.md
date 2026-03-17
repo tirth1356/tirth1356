@@ -1,6 +1,10 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;Data+science+Enthusiast;Practicing+DSA)](https://git.io/typing-svg) <br>
- - 🔭 currently studying on DSA<br>- 📗 Undergrad CSE<br>- 📕Learning **DSA & Web development **<br>- ✨Passionate Coder 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;Data+science+Enthusiast;Practicing+DSA)](https://git.io/typing-svg) <🚀 Exploring Blockchain & AI/ML — building platforms that scale and generate real-world value  
+
+- 🎓 CSE Undergraduate  
+- 🔭 Focused on Data Structures & Algorithms (DSA)    
+- 🚀 Developed scalable projects in credential verification, student intelligence systems & public data platforms  
+- 🌍 Interested in solving real-world urban and verification challenges  
 
 
 ## 🌐 Socials:
