@@ -1,40 +1,80 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;Data+science+Enthusiast;Practicing+DSA)](https://git.io/typing-svg) 
-🚀 Exploring Blockchain & AI/ML — building platforms that scale and generate real-world value  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;AI+%26+Blockchain+Builder;Practicing+DSA)](https://git.io/typing-svg)
+
+🚀 Exploring Blockchain & AI/ML — building scalable platforms that generate real-world value  
 
 - 🎓 CSE Undergraduate  
-- 🔭 Focused on Data Structures & Algorithms (DSA)    
-- 🚀 Developed scalable projects in credential verification, student intelligence systems & public data platforms  
+- 🔭 Focused on Data Structures & Algorithms (DSA)  
+- 💻 Building in AI, Web & Blockchain  
+- 🚀 Developed scalable systems in credential verification, student intelligence & public data platforms  
 - 🌍 Interested in solving real-world urban and verification challenges  
 
+---
+
+# 📄 Resume
+📌 [View My Resume](https://drive.google.com/file/d/142CuxeJVJ25_Qlh-yt08n_qqaY31RfIk/view?usp=drivesdk)
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirth1356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com) [Leetcode](https://leetcode.com/u/24bce288/) | [Hackerrank](https://www.hackerrank.com/profile/tirthpatel1356) | [CodeChef](https://www.codechef.com/users/tirth1356)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirth1356) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com)  
+
+💻 Coding Profiles:  
+[LeetCode](https://leetcode.com/u/24bce288/) | [HackerRank](https://www.hackerrank.com/profile/tirthpatel1356) | [CodeChef](https://www.codechef.com/users/tirth1356)
+
+---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-<br>
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-# 🎖️ Certificates
-  <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" /> <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" /> <!--  <img width="250" height="400" alt="image" src="https://github.com/user-attachments/assets/cd548cfd-06e0-4e1f-a524-2f62cfd27b3a" />  -->
-<br>
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  
+
+---
+
+# 🎖️ Certificates
+<img width="400" height="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
+<img width="100" height="200" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
+
+<br>
+
+<img width="700" height="500" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=nightowl&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=nightowl&hide_border=true&layout=compact)
 
-### ✍️ Motivated by
+---
+
+### ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tirth1356&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
