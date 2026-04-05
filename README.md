@@ -65,36 +65,6 @@ Currently working on **production-grade applications** that combine cutting-edge
 
 ---
 
-## 📁 Featured Projects
-
-### 🔗 **Blockchain Credential Verification System**
-A production-grade platform for verifying academic and professional credentials using blockchain technology.
-
-**Tech Stack:** Solidity | Node.js | React | MongoDB | AWS  
-**Features:**
-- Smart contract-based credential validation
-- Decentralized verification with IPFS storage
-- Real-time dashboard for tracking credentials
-- Secure wallet integration (MetaMask)
-
-**Impact:** 1000+ credentials verified | Production ready
-
----
-
-### 🧠 **Student Intelligence Platform**
-An AI-powered platform that predicts student performance and provides personalized learning recommendations.
-
-**Tech Stack:** Python (ML) | React | Node.js | PostgreSQL | AWS  
-**Features:**
-- Predictive ML models (95% accuracy)
-- Personalized learning dashboards
-- Real-time performance analytics
-- Advanced data visualization
-
-**Impact:** 500+ active users | 95% prediction accuracy | Active development
-
----
-
 ### 📊 **Public Data Intelligence Platform**
 A scalable platform for aggregating, processing, and visualizing public data with real-time analytics.
 
