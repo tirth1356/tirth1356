@@ -1,116 +1,80 @@
-# Tirth Patel
+# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;AI+%26+Blockchain+Builder;Practicing+DSA)](https://git.io/typing-svg)
 
-> CSE Undergrad | AI & Blockchain Builder | DSA Enthusiast
+🚀 Exploring Blockchain & AI/ML — building scalable platforms that generate real-world value  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/tirth1356)
-[![Resume](https://img.shields.io/badge/Resume-Download-red?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/142CuxeJVJ25_Qlh-yt08n_qqaY31RfIk/view?usp=drivesdk)
-[![Email](https://img.shields.io/badge/Email-Contact-black?logo=gmail&style=flat-square)](mailto:tirthpatel1356@gmail.com)
-
----
-
-## About Me
-
-```
-Building scalable systems that solve real-world problems.
-Passionate about AI/ML, Blockchain, and clean code.
-```
-
-- 🚀 Specialized in **Blockchain & Web3** architecture
-- 🤖 Building intelligent systems with **AI/ML**
-- 📊 Mastering **Data Structures & Algorithms**
-- 💻 Full-stack development across web and distributed systems
+- 🎓 CSE Undergraduate  
+- 🔭 Focused on Data Structures & Algorithms (DSA)  
+- 💻 Building in AI, Web & Blockchain  
+- 🚀 Developed scalable systems in credential verification, student intelligence & public data platforms  
+- 🌍 Interested in solving real-world urban and verification challenges  
 
 ---
 
-## Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-### ML & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+# 📄 Resume
+📌 [View My Resume](https://drive.google.com/file/d/142CuxeJVJ25_Qlh-yt08n_qqaY31RfIk/view?usp=drivesdk)
 
 ---
 
-## Key Projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirth1356) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com)  
 
-### 🔗 Blockchain Credential Verification
-- **Tech:** Solidity, Node.js, React, MongoDB
-- **Impact:** Verified 1000+ academic credentials
-- **Status:** Production
-
-### 🧠 Student Intelligence Platform
-- **Tech:** Python (ML), React, Node.js, AWS
-- **Impact:** 500+ users, 95% accuracy prediction
-- **Status:** Active Development
-
-### 📊 Public Data Platform
-- **Tech:** Next.js, Node.js, PostgreSQL, AWS
-- **Features:** Real-time data processing, advanced visualization
-- **Status:** Scaling to production
+💻 Coding Profiles:  
+[LeetCode](https://leetcode.com/u/24bce288/) | [HackerRank](https://www.hackerrank.com/profile/tirthpatel1356) | [CodeChef](https://www.codechef.com/users/tirth1356)
 
 ---
 
-## Coding Profiles
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 
-```
-LeetCode    → https://leetcode.com/u/24bce288/
-HackerRank  → https://www.hackerrank.com/profile/tirthpatel1356
-CodeChef    → https://www.codechef.com/users/tirth1356
-GitHub      → https://github.com/tirth1356
-Twitter     → https://x.com/tirth1356
-```
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
----
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
 
-## GitHub Stats
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=nightowl&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=nightowl&hide_border=true&layout=compact)
-
----
-
-## What I'm Learning
-
-- 🔐 Advanced system design & distributed architectures
-- ⚡ Rust for systems programming
-- 🌐 Web3 security & auditing
-- 📈 ML model optimization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  
 
 ---
 
-## Let's Connect
+# 🎖️ Certificates
+<img width="400" height="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
+<img width="100" height="200" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
 
-- 💼 [LinkedIn](https://linkedin.com/in/tirth1356) - Professional profile
-- 📧 [Email](mailto:tirthpatel1356@gmail.com) - Direct contact
-- 🐦 [Twitter](https://x.com/tirth1356) - Follow updates
+<br>
+
+<img width="700" height="500" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
 
 ---
 
-*"Building tomorrow's solutions today."*
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=nightowl&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=nightowl&hide_border=true&layout=compact)
+
+---
+
+### ✍️ Motivation
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tirth1356&limit=5&theme=dark&combine_all_yearly_contr
