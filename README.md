@@ -3,7 +3,7 @@
 > **Full-Stack Developer** | **AI/ML Engineer** | **Blockchain Architect**  
 > Building scalable platforms that generate real-world value
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;AI+%26+Blockchain+Builder;Practicing+DSA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;AI+%26+Blockchain+enthusiast;Practicing+DSA)](https://git.io/typing-svg)
 
 ---
 
@@ -61,7 +61,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database%20Design-blue?style=flat)
 
 ### **Blockchain & Web3**
@@ -69,8 +68,7 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Development-9cf?style=flat)
-![DeFi](https://img.shields.io/badge/DeFi-Protocols-lightblue?style=flat)
-![IPFS](https://img.shields.io/badge/IPFS-Storage-blue?style=flat&logo=ipfs)
+
 
 ### **ML & Data Science**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -106,7 +104,7 @@
 <div align="center">
 
 <img width="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
-<img width="350" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
+<img width="350" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
 
 <img width="500" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
 
