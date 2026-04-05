@@ -100,7 +100,7 @@
 ---
 
 ## 🏆 Certifications & Achievements
-
+<div align="center">
 <img width="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
 <img width="100" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" /> <br>
 
@@ -123,14 +123,6 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
- 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&cache_seconds=1800)](https://github.com/tirth1356)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=tokyonight&layout=compact&cache_seconds=1800)](https://github.com/tirth1356)
-
-**GitHub Contribution Streak**
 
 [![GitHub Streak Stats](https://streak-stats.demolab.com?user=tirth1356&theme=tokyonight)](https://github.com/tirth1356)
 
