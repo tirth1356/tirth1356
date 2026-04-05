@@ -101,8 +101,6 @@
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
-
 <img width="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
 <img width="100" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" /> <br>
 
