@@ -105,13 +105,12 @@
 
 <div align="center">
 
-### Certifications
+<img width="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
+<img width="350" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
 
-![Certification Image 1](https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde)
-![Certification Image 2](https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8)
-![Certification Image 3](https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b)
+<img width="500" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
 
-**AWS Solutions Architect** | **Blockchain Development** | **ML Specialization**
+**Projects that Earn** | **Blockchain Enthusiast** | **Products that Scale**
 
 </div>
 
@@ -129,23 +128,14 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<a href="https://github.com/tirth1356">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirth1356&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=tokyonight&layout=compact" />
+</a>
 
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=000000&icon_color=0d1117&title_color=0d1117)
+**GitHub Contribution Streak**
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=default&hide_border=false&background=ffffff&ring=0d1117&fire=ff6b6b&stroke=000000)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=default&show_icons=true&hide_border=false&layout=compact&bg_color=ffffff&text_color=000000&title_color=0d1117)
-
-</div>
+[![GitHub Streak Stats](https://streak-stats.demolab.com?user=tirth1356&theme=tokyonight)](https://github.com/tirth1356)
 
 ---
 
@@ -188,44 +178,15 @@ Currently focused on:
 
 ---
 
-## 📝 Latest Updates
+## 📌 Top Repositories
 
-<details open>
-<summary><b>Recent Work</b></summary>
+<a href="https://github.com/tirth1356">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirth1356&repo=tirth1356&theme=tokyonight" />
+</a>
 
-- ✅ Deployed blockchain credential verification system to production
-- 🚀 Scaled student intelligence platform to 500+ users
-- 📚 Advanced certifications in AWS and Blockchain Development
-- 🔄 Contributing to open-source projects
-- 💪 Strengthening system design and DSA skills
-
-</details>
-
----
-
-## 📚 Currently Learning
-
-```python
-learning_path = {
-    "Advanced System Design": "In Progress 📖",
-    "Kubernetes & DevOps": "In Progress 📖",
-    "Rust Systems Programming": "Starting Soon 🚀",
-    "Advanced ML Models": "Exploring 🔍",
-    "DeFi & Smart Contracts": "Deep Diving 🔗"
-}
-```
-
----
-
-## 🎓 Motivation
-
-![Random Motivation Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 📌 Top Contributions
-
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=tirth1356&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/tirth1356">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=tirth1356&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" />
+</a>
 
 ---
 
