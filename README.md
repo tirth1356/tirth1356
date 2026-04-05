@@ -30,35 +30,118 @@
 
 ## 💻 Tech Stack
 
-### **Languages**
+### **Core Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
-### **Frontend**
+### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-Mobile%20First-blueviolet?style=flat)
 
-### **Backend & Databases**
+### **Backend Development**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST%20API-Architecture-green?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?style=flat)
+
+### **Databases & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Design-blue?style=flat)
+
+### **Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=ethereum)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Development-9cf?style=flat)
+![DeFi](https://img.shields.io/badge/DeFi-Protocols-lightblue?style=flat)
+![IPFS](https://img.shields.io/badge/IPFS-Storage-blue?style=flat&logo=ipfs)
 
 ### **ML & Data Science**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![ML Pipeline](https://img.shields.io/badge/ML%20Pipeline-Engineering-red?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blueviolet?style=flat)
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-green?style=flat)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-blueviolet?style=flat)
+
+### **Tools & Utilities**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 **Blockchain Credential Verification System**
+Smart contract-based platform for verifying academic and professional credentials on the blockchain.
+
+**Tech:** Solidity | Node.js | React | MongoDB | AWS  
+**Highlights:**
+- Decentralized credential validation using smart contracts
+- IPFS integration for secure document storage
+- Real-time verification dashboard
+- Secure wallet integration
+
+**Impact:** 1000+ credentials verified | Production-ready
+
+---
+
+### 🧠 **Student Intelligence Platform**
+AI-powered platform providing predictive analytics and personalized learning recommendations.
+
+**Tech:** Python (ML) | React | Node.js | MongoDB | AWS  
+**Highlights:**
+- Predictive ML models with 95% accuracy
+- Personalized learning dashboards
+- Real-time performance analytics
+- Advanced data visualization
+
+**Impact:** 500+ active users | Production
+
+---
+
+### 📊 **Public Data Intelligence Platform**
+Scalable platform for aggregating, processing, and visualizing public data with real-time analytics.
+
+**Tech:** Next.js | Node.js | PostgreSQL | AWS  
+**Highlights:**
+- Real-time data pipeline processing
+- Advanced filtering and search capabilities
+- Interactive data visualization
+- Optimized for scale
+
+**Impact:** 40% faster query performance | Active development
 
 ---
 
@@ -66,43 +149,63 @@
 
 <div align="center">
 
-![AWS Certification](https://img.shields.io/badge/AWS%20Solutions-Architect-FF9900?style=for-the-badge)
-![Blockchain Dev](https://img.shields.io/badge/Blockchain-Developer-623EE5?style=for-the-badge)
-![ML Specialization](https://img.shields.io/badge/ML-Specialist-4285F4?style=for-the-badge)
+### Certifications
+
+![Certification Image 1](https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde)
+![Certification Image 2](https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8)
+![Certification Image 3](https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b)
+
+**AWS Solutions Architect** | **Blockchain Development** | **ML Specialization**
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Coding Profiles & Achievements
 
-| Platform | Profile |
-|----------|---------|
-| **LeetCode** | [leetcode.com/u/24bce288](https://leetcode.com/u/24bce288/) - 500+ problems solved |
-| **HackerRank** | [@tirthpatel1356](https://www.hackerrank.com/profile/tirthpatel1356) |
-| **CodeChef** | [@tirth1356](https://www.codechef.com/users/tirth1356) |
+| Platform | Profile | Achievements |
+|----------|---------|---|
+| **LeetCode** | [leetcode.com/u/24bce288](https://leetcode.com/u/24bce288/) | 1600+ Rating |
+| **CodeChef** | [@tirth1356](https://www.codechef.com/users/tirth1356) | 500+ Problems Solved |
+| **HackerRank** | [@tirthpatel1356](https://www.hackerrank.com/profile/tirthpatel1356) | Multiple Certifications |
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
+<div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=nightowl&hide_border=true)
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=000000&icon_color=0d1117&title_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=nightowl&hide_border=true&layout=compact)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=default&hide_border=false&background=ffffff&ring=0d1117&fire=ff6b6b&stroke=000000)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=default&show_icons=true&hide_border=false&layout=compact&bg_color=ffffff&text_color=000000&title_color=0d1117)
+
+</div>
 
 ---
 
-## ✨ Key Highlights
+## 🌟 Skill Matrix
 
-✅ **45+ repositories** on GitHub  
-✅ **280+ stars** across projects  
-✅ **1200+ commits** demonstrating consistent contributions  
-✅ **8+ programming languages** proficiency  
-✅ **120+ day streak** of continuous development  
-✅ **Production experience** with scalable systems  
-✅ **Full-stack expertise** from frontend to DevOps  
+| Skill | Proficiency | Experience |
+|-------|------------|-----------|
+| **React / Frontend** | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Node.js / Backend** | ⭐⭐⭐⭐⭐ | 2+ years |
+| **DSA & Algorithms** | ⭐⭐⭐⭐⭐ | 2+ years |
+| **System Design** | ⭐⭐⭐⭐☆ | 1.5+ years |
+| **Blockchain/Web3** | ⭐⭐⭐⭐☆ | 1+ year |
+| **AI/ML Integration** | ⭐⭐⭐⭐☆ | 1+ year |
+| **Databases** | ⭐⭐⭐⭐☆ | 2+ years |
+| **Cloud (AWS)** | ⭐⭐⭐⭐☆ | 1.5+ years |
+| **DevOps & Docker** | ⭐⭐⭐☆☆ | 1+ year |
 
 ---
 
@@ -115,6 +218,7 @@ Currently focused on:
 - 🤖 Integrating **AI/ML features** into production applications
 - 📈 Optimizing **system design** for performance and scalability
 - 🧠 Mastering **advanced DSA** patterns and competitive programming
+- ☸️ Learning **Kubernetes** and container orchestration
 
 ---
 
@@ -140,21 +244,6 @@ Currently focused on:
 - 💪 Strengthening system design and DSA skills
 
 </details>
-
----
-
-## 🌟 Skill Matrix
-
-| Skill | Proficiency | Experience |
-|-------|------------|-----------|
-| React / Frontend | ⭐⭐⭐⭐⭐ | 2+ years |
-| Node.js / Backend | ⭐⭐⭐⭐⭐ | 2+ years |
-| DSA & Algorithms | ⭐⭐⭐⭐⭐ | 2+ years |
-| System Design | ⭐⭐⭐⭐☆ | 1.5+ years |
-| Blockchain/Web3 | ⭐⭐⭐⭐☆ | 1+ year |
-| AI/ML Integration | ⭐⭐⭐⭐☆ | 1+ year |
-| Databases | ⭐⭐⭐⭐☆ | 2+ years |
-| Cloud (AWS) | ⭐⭐⭐⭐☆ | 1.5+ years |
 
 ---
 
