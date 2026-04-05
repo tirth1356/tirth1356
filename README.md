@@ -101,50 +101,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 **Blockchain Credential Verification System**
-Smart contract-based platform for verifying academic and professional credentials on the blockchain.
-
-**Tech:** Solidity | Node.js | React | MongoDB | AWS  
-**Highlights:**
-- Decentralized credential validation using smart contracts
-- IPFS integration for secure document storage
-- Real-time verification dashboard
-- Secure wallet integration
-
-**Impact:** 1000+ credentials verified | Production-ready
-
----
-
-### 🧠 **Student Intelligence Platform**
-AI-powered platform providing predictive analytics and personalized learning recommendations.
-
-**Tech:** Python (ML) | React | Node.js | MongoDB | AWS  
-**Highlights:**
-- Predictive ML models with 95% accuracy
-- Personalized learning dashboards
-- Real-time performance analytics
-- Advanced data visualization
-
-**Impact:** 500+ active users | Production
-
----
-
-### 📊 **Public Data Intelligence Platform**
-Scalable platform for aggregating, processing, and visualizing public data with real-time analytics.
-
-**Tech:** Next.js | Node.js | PostgreSQL | AWS  
-**Highlights:**
-- Real-time data pipeline processing
-- Advanced filtering and search capabilities
-- Interactive data visualization
-- Optimized for scale
-
-**Impact:** 40% faster query performance | Active development
-
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
