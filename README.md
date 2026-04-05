@@ -104,7 +104,7 @@
 <div align="center">
 
 <img width="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
-<img width="350" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
+<img width="150" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
 
 <img width="500" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
 
