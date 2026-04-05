@@ -126,10 +126,11 @@
 
 ## 📊 GitHub Statistics
 
-<a href="https://github.com/tirth1356">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirth1356&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=tokyonight&layout=compact" />
-</a>
+<div align="center">
+ 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&cache_seconds=1800)](https://github.com/tirth1356)
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=tokyonight&layout=compact&cache_seconds=1800)](https://github.com/tirth1356)
 
 **GitHub Contribution Streak**
 
