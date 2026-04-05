@@ -1,202 +1,203 @@
 # Tirth Patel
 
 > **Full-Stack Developer** | **AI/ML Engineer** | **Blockchain Architect**  
-> Building scalable web applications and intelligent systems
+> Building scalable platforms that generate real-world value
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tirth1356)
-[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/142CuxeJVJ25_Qlh-yt08n_qqaY31RfIk/view?usp=drivesdk)
-[![Email](https://img.shields.io/badge/Email-Contact-gray?style=for-the-badge&logo=gmail)](mailto:tirthpatel1356@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/tirth1356)
-[![GitHub](https://img.shields.io/badge/GitHub-tirth1356-181717?style=for-the-badge&logo=github)](https://github.com/tirth1356)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;AI+%26+Blockchain+Builder;Practicing+DSA)](https://git.io/typing-svg)
+
+---
+
+## 🔗 Quick Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356)
+[![Resume](https://img.shields.io/badge/Resume-View-red?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/142CuxeJVJ25_Qlh-yt08n_qqaY31RfIk/view?usp=drivesdk)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirth1356)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **CSE undergraduate** passionate about building full-stack web applications with **modern tech stacks**. My focus areas include:
+🚀 Exploring **Blockchain & AI/ML** — building scalable platforms that generate real-world value
 
-- 🌐 **Full-Stack Web Development** - React, Next.js, Node.js, and beautiful UIs
-- 🔗 **Blockchain & Web3** - Smart contracts, DeFi, and decentralized applications  
-- 🤖 **AI/ML Integration** - Intelligent features, predictions, and data processing
-- 📊 **System Design** - Scalable architectures, microservices, and databases
-- 🧠 **Data Structures & Algorithms** - Clean, optimized code and problem-solving
-
-Currently working on **production-grade applications** that combine cutting-edge technology with excellent user experience.
+- 🎓 **CSE Undergraduate** specializing in system design and full-stack development
+- 🔭 Focused on **Data Structures & Algorithms (DSA)** and competitive programming
+- 💻 Building in **AI, Web & Blockchain** domains
+- 🚀 Developed scalable systems in **credential verification, student intelligence & public data platforms**
+- 🌍 Passionate about solving **real-world urban and verification challenges**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### **Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-### **Databases & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### **Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=ethereum)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 ### **ML & Data Science**
-![Python](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
-### **DevOps & Tools**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-### 📊 **Public Data Intelligence Platform**
-A scalable platform for aggregating, processing, and visualizing public data with real-time analytics.
+## 🏆 Certifications & Achievements
 
-**Tech Stack:** Next.js | Node.js | PostgreSQL | AWS  
-**Features:**
-- Real-time data pipeline processing
-- Advanced querying and filtering
-- Beautiful data visualization
-- Optimized for scale and performance
+<div align="center">
 
-**Impact:** 40% faster query times | Scaling to production
+![AWS Certification](https://img.shields.io/badge/AWS%20Solutions-Architect-FF9900?style=for-the-badge)
+![Blockchain Dev](https://img.shields.io/badge/Blockchain-Developer-623EE5?style=for-the-badge)
+![ML Specialization](https://img.shields.io/badge/ML-Specialist-4285F4?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📈 Development Metrics
-
-```
-Total Repositories:      45+
-Total Stars:             280+
-Total Commits:           1200+
-Languages Proficient:    8+
-Longest Streak:          120+ days
-```
-
-### **GitHub Statistics**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=tirth1356&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&layout=compact&hide_border=true&theme=default)
-
----
-
-## 🎓 Learning & Growth
-
-Currently focusing on:
-
-- **Advanced System Design** - Scalable architectures, microservices patterns
-- **Web3 Development** - Deep diving into smart contracts and DeFi protocols
-- **Cloud Architecture** - Kubernetes, serverless, and infrastructure as code
-- **Performance Optimization** - Frontend optimization, database tuning, API efficiency
-- **Rust** - Systems programming and high-performance applications
-
----
-
-## 🔗 Connect With Me
-
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [linkedin.com/in/tirth1356](https://linkedin.com/in/tirth1356) |
-| **GitHub** | [github.com/tirth1356](https://github.com/tirth1356) |
-| **Email** | [tirthpatel1356@gmail.com](mailto:tirthpatel1356@gmail.com) |
-| **Twitter** | [@tirth1356](https://x.com/tirth1356) |
-
-### **Coding Profiles**
+## 💻 Coding Profiles
 
 | Platform | Profile |
 |----------|---------|
-| **LeetCode** | [leetcode.com/u/24bce288](https://leetcode.com/u/24bce288/) |
+| **LeetCode** | [leetcode.com/u/24bce288](https://leetcode.com/u/24bce288/) - 500+ problems solved |
 | **HackerRank** | [@tirthpatel1356](https://www.hackerrank.com/profile/tirthpatel1356) |
 | **CodeChef** | [@tirth1356](https://www.codechef.com/users/tirth1356) |
 
 ---
 
-## 💡 What I'm Working On
+## 📊 GitHub Statistics
 
-- 🚀 Building **production-grade full-stack applications**
-- 🔐 Developing **secure Web3 solutions** with smart contracts
-- 📱 Creating **responsive, accessible web interfaces**
-- 🧬 Integrating **AI/ML features** into web applications
-- 🏗️ Designing **scalable system architectures**
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tirth1356&theme=nightowl&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&theme=nightowl&hide_border=true&layout=compact)
 
 ---
 
-## 🎯 Open To
+## ✨ Key Highlights
 
-- 💼 **Full-time roles** as Full-Stack Developer / Web Developer
-- 🤝 **Collaborations** on exciting web projects
-- 📚 **Mentoring** and technical discussions
-- 🔓 **Open-source contributions**
-- 🏢 **Internships** in Web Development / Blockchain / AI-ML
+✅ **45+ repositories** on GitHub  
+✅ **280+ stars** across projects  
+✅ **1200+ commits** demonstrating consistent contributions  
+✅ **8+ programming languages** proficiency  
+✅ **120+ day streak** of continuous development  
+✅ **Production experience** with scalable systems  
+✅ **Full-stack expertise** from frontend to DevOps  
+
+---
+
+## 🎯 What I'm Working On
+
+Currently focused on:
+
+- 🌐 Building **scalable full-stack applications** with modern tech stacks
+- 🔐 Developing **Web3 & blockchain solutions** with smart contracts
+- 🤖 Integrating **AI/ML features** into production applications
+- 📈 Optimizing **system design** for performance and scalability
+- 🧠 Mastering **advanced DSA** patterns and competitive programming
+
+---
+
+## 💡 Open To Collaborations
+
+- 💼 Full-time roles in **Full-Stack Development** and **Blockchain Engineering**
+- 🤝 Collaborations on **AI/ML projects** and **Web3 initiatives**
+- 📚 **Open-source contributions** and community projects
+- 🏢 **Internships** in Software Development, AI/ML, or Blockchain
+- 💬 **Technical discussions** and knowledge sharing
 
 ---
 
 ## 📝 Latest Updates
 
 <details open>
-<summary><b>What's New</b></summary>
+<summary><b>Recent Work</b></summary>
 
-- ✅ Completed production deployment of blockchain credential system
-- 🔄 Scaling student intelligence platform to 1000+ users
-- 📚 Learning advanced system design patterns
-- 🚀 Building Web3 protocol integrations
-- 💪 Strengthening DevOps and cloud architecture skills
+- ✅ Deployed blockchain credential verification system to production
+- 🚀 Scaled student intelligence platform to 500+ users
+- 📚 Advanced certifications in AWS and Blockchain Development
+- 🔄 Contributing to open-source projects
+- 💪 Strengthening system design and DSA skills
 
 </details>
 
 ---
 
-## 📊 Skill Proficiency
+## 🌟 Skill Matrix
 
-| Skill | Proficiency | Years |
-|-------|------------|-------|
-| React / Frontend | ⭐⭐⭐⭐⭐ | 2+ |
-| Node.js / Backend | ⭐⭐⭐⭐⭐ | 2+ |
-| Databases | ⭐⭐⭐⭐☆ | 2+ |
-| System Design | ⭐⭐⭐⭐☆ | 1.5+ |
-| Blockchain/Web3 | ⭐⭐⭐⭐☆ | 1+ |
-| DSA & Algorithms | ⭐⭐⭐⭐⭐ | 2+ |
-| Cloud (AWS) | ⭐⭐⭐⭐☆ | 1.5+ |
-| AI/ML Integration | ⭐⭐⭐⭐☆ | 1+ |
+| Skill | Proficiency | Experience |
+|-------|------------|-----------|
+| React / Frontend | ⭐⭐⭐⭐⭐ | 2+ years |
+| Node.js / Backend | ⭐⭐⭐⭐⭐ | 2+ years |
+| DSA & Algorithms | ⭐⭐⭐⭐⭐ | 2+ years |
+| System Design | ⭐⭐⭐⭐☆ | 1.5+ years |
+| Blockchain/Web3 | ⭐⭐⭐⭐☆ | 1+ year |
+| AI/ML Integration | ⭐⭐⭐⭐☆ | 1+ year |
+| Databases | ⭐⭐⭐⭐☆ | 2+ years |
+| Cloud (AWS) | ⭐⭐⭐⭐☆ | 1.5+ years |
 
 ---
 
-## 🌟 Highlights
+## 📚 Currently Learning
 
-✅ **Production Experience** - Built and deployed multiple full-stack applications  
-✅ **Clean Code** - Focus on maintainability, scalability, and best practices  
-✅ **Problem Solver** - 500+ DSA problems solved on competitive platforms  
-✅ **Fast Learner** - Quick to adapt and master new technologies  
-✅ **Team Player** - Strong collaboration and communication skills  
-✅ **Continuous Learner** - Always exploring new technologies and methodologies  
+```python
+learning_path = {
+    "Advanced System Design": "In Progress 📖",
+    "Kubernetes & DevOps": "In Progress 📖",
+    "Rust Systems Programming": "Starting Soon 🚀",
+    "Advanced ML Models": "Exploring 🔍",
+    "DeFi & Smart Contracts": "Deep Diving 🔗"
+}
+```
+
+---
+
+## 🎓 Motivation
+
+![Random Motivation Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 📌 Top Contributions
+
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=tirth1356&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <div align="center">
 
-### 🚀 Let's build something amazing together!
+### 🚀 Let's build something extraordinary together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=tirth1356&label=Profile%20Views&color=blue&style=flat)
+**Interested in collaborating?** Feel free to reach out!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tirth1356)
+
+---
 
 **Made with ❤️ by Tirth Patel**
+
+![Profile Views](https://komarev.com/ghpvc/?username=tirth1356&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
