@@ -10,7 +10,7 @@
 ## 🔗 Quick Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356)
-[![Resume](https://img.shields.io/badge/Resume-View-red?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/142CuxeJVJ25_Qlh-yt08n_qqaY31RfIk/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View-red?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1GMKjd6WpjLulHJkxf_qbgmLj-veJ4HUW/view?usp=sharing)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirth1356)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com)
 
@@ -104,7 +104,7 @@
 <div align="center">
 
 <img width="350" src="https://github.com/user-attachments/assets/b3a481f6-3083-46f4-9475-52b294e39dde" />
-<img width="150" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" />
+<img width="100" height="100" src="https://github.com/user-attachments/assets/7d59fd9d-f692-4346-a3c3-bc688d08ffc8" /> <br>
 
 <img width="500" src="https://github.com/user-attachments/assets/0a59fd2c-b890-42c3-8059-49e977fcf92b" />
 
