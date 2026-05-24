@@ -1,6 +1,6 @@
 # Tirth Patel
 
-> **Full-Stack Developer** | **AI/ML Engineer** | **Blockchain Architect**  
+> **Full-Stack Developer** 
 > Building scalable platforms that generate real-world value
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=CSE+Undergrad;AI+%26+Blockchain+enthusiast;Practicing+DSA)](https://git.io/typing-svg)
