@@ -73,11 +73,6 @@ Computer Science undergraduate building full-stack applications, AI-powered syst
 ---
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=tirth1356)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&show_icons=true&hide_border=true)
-
-
-
 ---
 ## Fun Facts
 - Started as a developer, now spends half the time reading documentation.
