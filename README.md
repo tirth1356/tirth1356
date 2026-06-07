@@ -76,7 +76,7 @@ Computer Science undergraduate building full-stack applications, AI-powered syst
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth1356&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1356&layout=compact&hide_border=true)
+
 
 ---
 ## Fun Facts
