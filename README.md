@@ -9,7 +9,7 @@ Computer Science undergraduate building full-stack applications, AI-powered syst
 ---
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356)
-[![Resume](https://img.shields.io/badge/Resume-View-red?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1GMKjd6WpjLulHJkxf_qbgmLj-veJ4HUW/view)
+[![Resume](https://img.shields.io/badge/Resume-View-red?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1uRaJGBY8KjDfDPqTx4ThOjdeOzvPiEJT/view?usp=sharing)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirth1356)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirthpatel1356@gmail.com)
 
