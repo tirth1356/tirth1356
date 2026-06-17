@@ -1,11 +1,9 @@
 # Tirth Patel
-
 Computer Science undergraduate building full-stack applications, AI-powered systems, and scalable backend services.
 
 ### 🌐 Portfolio
 **Visit:** https://tirth1356.vercel.app
 > Building things because tutorials don't count as experience.
-
 ---
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth1356)
